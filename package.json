@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/caricatura-politica",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a caricatura-politica",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/caricatura-politica.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://x-port.net/caricatura-politica/"
+    },
+    "homepage": "https://x-port.net/caricatura-politica/"
+}
